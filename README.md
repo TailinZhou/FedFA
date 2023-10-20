@@ -1,6 +1,8 @@
 # FedFA
 The open-source code of FedFA: Federated Learning with Feature Anchors to Align Features and Classifiers for Heterogeneous Data, accepted by IEEE TMC.  
 
+Please directly run our example Jupiter files for your codes.
+
 # Citation
 If our code has been helpful to you, we would appreciate a citation as follows:
 
