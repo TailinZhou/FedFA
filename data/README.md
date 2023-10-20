@@ -1,6 +1,6 @@
 # Data
 
-MNIST & CIFAR-10 & CIFAR-100 datasets will be downloaded automatically by the torchvision package.
+MNIST & CIFAR-10 & CIFAR-100 datasets will be downloaded automatically by the torchvision package. Note that you should create a new folder to save each dataset, like 'data/CIFAR10'.
 
 FEMNIST datasets will be downloaded and processed automatically by the code file for 'utils/femnist_dataset'.
 
